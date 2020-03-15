@@ -1,0 +1,11 @@
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\bin\Debug\Week7.exe.config
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\bin\Debug\Week7.exe
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\bin\Debug\Week7.pdb
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.csprojResolveAssemblyReference.cache
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.Properties.Resources.resources
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.csproj.GenerateResource.Cache
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.csproj.CoreCompileInputs.cache
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.exe
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.pdb
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.Form1.resources
+C:\Users\12430\source\repos\Data Structure\Week7\Week7\obj\Debug\Week7.Form2.resources

@@ -1,0 +1,11 @@
+﻿sqlist.obj : error LNK2005: "void __cdecl CreateList(struct SqList * &,char * const,int)" (?CreateList@@YAXAAPAUSqList@@QADH@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "void __cdecl DestroyList(struct SqList * &)" (?DestroyList@@YAXAAPAUSqList@@@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "void __cdecl DispList(struct SqList *)" (?DispList@@YAXPAUSqList@@@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "bool __cdecl GetElem(struct SqList *,int,char &)" (?GetElem@@YA_NPAUSqList@@HAAD@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "void __cdecl InitList(struct SqList * &)" (?InitList@@YAXAAPAUSqList@@@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "bool __cdecl ListDelete(struct SqList * &,int,char &)" (?ListDelete@@YA_NAAPAUSqList@@HAAD@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "bool __cdecl ListEmpty(struct SqList *)" (?ListEmpty@@YA_NPAUSqList@@@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "bool __cdecl ListInsert(struct SqList * &,int,char)" (?ListInsert@@YA_NAAPAUSqList@@HD@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "int __cdecl ListLength(struct SqList *)" (?ListLength@@YAHPAUSqList@@@Z) 已经在 exp2-1.obj 中定义
+sqlist.obj : error LNK2005: "int __cdecl LocateElem(struct SqList *,char)" (?LocateElem@@YAHPAUSqList@@D@Z) 已经在 exp2-1.obj 中定义
+C:\Users\12430\source\repos\Data Structure\LinkerTestOne\Debug\LinkerTestOne.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
